@@ -4,11 +4,11 @@
 _斜體_ __強調__  
 
     區塊: 四個空格在文字前方
-
+*********
 # BuildSchool
 ## BuildSchool
 ### BuildSchool
-
+--------------
 >BuildSchool
 >>BuildSchool
 >>>BuildSchool
@@ -24,3 +24,10 @@ _斜體_ __強調__
 	2. 你懂嗎
 2. 懂嗎
    1. 嗎
+
+[BuildSchool](https://blog.build-school.com/)
+
+```csharp
+System.Console.WriteLine("Hello World!");
+System.Console.ReadLine();
+```
